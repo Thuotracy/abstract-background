@@ -4,3 +4,17 @@ for (var i = 1; i<=3; i++){
     blocks.classList.add('block');
     container.appendChild(blocks);
 }
+
+function generate(){
+    anime({
+        targets: '.block',
+        translateX: function(){
+            return anime.random(-700,700)
+        },
+        translateY: function(){
+            return anime.random(-700,700)
+        }
+    })
+}
+
+generate()
