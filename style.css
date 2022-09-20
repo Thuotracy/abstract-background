@@ -13,6 +13,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #202020;
+    overflow: hidden;
 }
 
 .container{
