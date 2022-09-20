@@ -23,3 +23,15 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.button{
+    position: relative;
+    z-index: 1;
+    margin: 10px;
+    border: none;
+    background: white;
+    font-size: 1.2em;
+    padding: 15px 30px;
+    cursor: pointer;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.25);
+}
