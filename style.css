@@ -25,11 +25,13 @@ body{
     align-items: center;
 }
 
-.button{
+button{
     position: relative;
+    left: 550px;
     z-index: 1;
     margin: 10px;
     border: none;
+    outline: none;
     background: white;
     font-size: 1.2em;
     padding: 15px 30px;
@@ -38,7 +40,7 @@ body{
 }
 
 .block{
-    position: absolute;
+    /* position: absolute; */
     width: 50px;
     height: 50px;
     background: white;
