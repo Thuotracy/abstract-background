@@ -1,7 +1,7 @@
 ## ABSTARCT BACKGROUND
-## Description
 
-This is  school website design
+## Description
+This is an abstract background design.
 
 ## Technologies Used
 * HTML
