@@ -6,8 +6,6 @@ This is an abstract background design.
 ## Technologies Used
 * HTML
 * CSS
-* SCSS
-* JavaScript
 
 ## Live link
 https://thuotracy.github.io/school-website/home.
